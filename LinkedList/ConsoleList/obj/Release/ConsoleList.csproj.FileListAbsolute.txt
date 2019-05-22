@@ -1,0 +1,10 @@
+C:\Users\GRE\Documents\Visual Studio 2019\Projects\LinkedList\LinkedList\ConsoleList\bin\Release\ConsoleList.exe.config
+C:\Users\GRE\Documents\Visual Studio 2019\Projects\LinkedList\LinkedList\ConsoleList\bin\Release\ConsoleList.exe
+C:\Users\GRE\Documents\Visual Studio 2019\Projects\LinkedList\LinkedList\ConsoleList\bin\Release\ConsoleList.pdb
+C:\Users\GRE\Documents\Visual Studio 2019\Projects\LinkedList\LinkedList\ConsoleList\bin\Release\LinkedList.dll
+C:\Users\GRE\Documents\Visual Studio 2019\Projects\LinkedList\LinkedList\ConsoleList\bin\Release\LinkedList.pdb
+C:\Users\GRE\Documents\Visual Studio 2019\Projects\LinkedList\LinkedList\ConsoleList\obj\Release\ConsoleList.csprojAssemblyReference.cache
+C:\Users\GRE\Documents\Visual Studio 2019\Projects\LinkedList\LinkedList\ConsoleList\obj\Release\ConsoleList.csproj.CoreCompileInputs.cache
+C:\Users\GRE\Documents\Visual Studio 2019\Projects\LinkedList\LinkedList\ConsoleList\obj\Release\ConsoleList.csproj.CopyComplete
+C:\Users\GRE\Documents\Visual Studio 2019\Projects\LinkedList\LinkedList\ConsoleList\obj\Release\ConsoleList.exe
+C:\Users\GRE\Documents\Visual Studio 2019\Projects\LinkedList\LinkedList\ConsoleList\obj\Release\ConsoleList.pdb

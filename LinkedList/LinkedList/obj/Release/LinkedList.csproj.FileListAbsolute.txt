@@ -1,0 +1,5 @@
+C:\Users\GRE\Documents\Visual Studio 2019\Projects\LinkedList\LinkedList\LinkedList\bin\Release\LinkedList.dll
+C:\Users\GRE\Documents\Visual Studio 2019\Projects\LinkedList\LinkedList\LinkedList\bin\Release\LinkedList.pdb
+C:\Users\GRE\Documents\Visual Studio 2019\Projects\LinkedList\LinkedList\LinkedList\obj\Release\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\GRE\Documents\Visual Studio 2019\Projects\LinkedList\LinkedList\LinkedList\obj\Release\LinkedList.dll
+C:\Users\GRE\Documents\Visual Studio 2019\Projects\LinkedList\LinkedList\LinkedList\obj\Release\LinkedList.pdb
